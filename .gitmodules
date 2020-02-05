@@ -1,0 +1,18 @@
+[submodule "SEV-UltraMinecraft"]
+	path = SEV-UltraMinecraft
+	url = https://github.com/jaluma/SEV-UltraMinecraft.git
+[submodule "SEV-Supervivencia"]
+	path = SEV-Supervivencia
+	url = https://github.com/jaluma/SEV-Supervivencia.git
+[submodule "SEV-JuegoVaquero"]
+	path = SEV-JuegoVaquero
+	url = https://github.com/jaluma/SEV-JuegoVaquero.git
+[submodule "SEV-Zeldio"]
+	path = SEV-Zeldio
+	url = https://github.com/jaluma/SEV-Zeldio.git
+[submodule "SEV-Plataformas"]
+	path = SEV-Plataformas
+	url = https://github.com/jaluma/SEV-Plataformas.git
+[submodule "SEV-JuegoNaves"]
+	path = SEV-JuegoNaves
+	url = https://github.com/jaluma/SEV-JuegoNaves
