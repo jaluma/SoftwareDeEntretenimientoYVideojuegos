@@ -21,7 +21,7 @@ UnrealEngine 4.16.x
 ## Autor
 
 * **Javier Martínez** - [jaluma](https://github.com/jaluma)
-* **Cristina Ruiz de Bucesta** - [jaluma](https://github.com/kryystinn)
+* **Cristina Ruiz de Bucesta** - [kryystinn](https://github.com/kryystinn)
 
 ## License
 
